@@ -1,10 +1,10 @@
+streamlit
 pandas
 numpy
 scikit-learn
-xgboost
-tensorflow
+joblib
+requests
 matplotlib
 seaborn
-joblib
-streamlit
-requests
+xgboost
+
