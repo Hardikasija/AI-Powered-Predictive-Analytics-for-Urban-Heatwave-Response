@@ -1,0 +1,17 @@
+{
+  "model": "xgboost",
+  "zone": "Ahmedabad",
+  "date": "2026-04-21",
+  "heatwave_probability": 0.9724,
+  "predicted_heatwave": true,
+  "alert_level": "Emergency",
+  "severity": "extreme",
+  "recommended_actions": [
+    "Trigger emergency heatwave response protocols immediately.",
+    "Deploy community response teams, medical support, and targeted public alerts without delay."
+  ],
+  "temperature_max": 43.9,
+  "temperature_avg": 34.88,
+  "humidity": 19.93,
+  "forecast_horizon_days": 3
+}
